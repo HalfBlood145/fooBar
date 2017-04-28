@@ -1,7 +1,5 @@
 Foo
 met
-Bar
-at
 The 
 Airport.
 It 
