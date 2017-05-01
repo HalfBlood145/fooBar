@@ -1,2 +1,3 @@
 sdkgnsldf
 conflict
+conflict in branch
